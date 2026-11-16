@@ -1,2 +1,2 @@
 # skip-releases
-Official Skip macOS downloads. Application source is maintained separately.
+Download artifacts for skip-releases. This repository is a release feed, not the application source.
